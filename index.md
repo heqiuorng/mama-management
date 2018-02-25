@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 记录何秋蓉每天的学习
 
 You can use the [editor on GitHub](https://github.com/heqiuorng/mama-management/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
